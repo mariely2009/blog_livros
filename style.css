@@ -1,0 +1,9 @@
+header{
+    background-color: rgba(98, 217, 233, 0.994);
+    width: 100%;
+}
+
+header img {
+    width: 200px;
+    height: 100
+}
